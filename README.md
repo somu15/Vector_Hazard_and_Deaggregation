@@ -2,7 +2,8 @@
 
 This function computes vector hazard and vector deaggregation of NIMs 
 using the corresponding scalar M-R deaggregations as inputs. The correlation
-matrix between the NIMs is also required.
+matrix between the NIMs is also required. Refer to the Example_Inputs.mat
+file for example inputs.
 
 Dhulipala, S.L.N., Rodriguez-Marek,A., and Flint, M.M. "Computation of
 vector hazard using salient features of seismic hazard deaggregation".
