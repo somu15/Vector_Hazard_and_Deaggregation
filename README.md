@@ -9,9 +9,9 @@ vector hazard using salient features of seismic hazard deaggregation".
 Earthquake Spectra (submitted).
 
 NOTATIONS
-NIM = Number of IMs considered in the vector
-NM = Number of magnitude bins in the deaggregation
-NR = Number of distance bins in the deaggregation
+NIM = Number of IMs considered in the vector.
+NM = Number of magnitude bins in the deaggregation.
+NR = Number of distance bins in the deaggregation.
 
 
 INPUTS:
@@ -30,5 +30,5 @@ level of the IM.
 consideration.
 
 OUTPUTS:
--AFE_joint     1 X 1           Vector hazard for the IMs under considered
+-AFE_joint     1 X 1           Vector hazard for the IMs under considered.
 -deagg_unif    NM X NR         Vector deaggregation for the IMs.
