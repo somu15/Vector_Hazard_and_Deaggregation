@@ -33,8 +33,8 @@ function [AFE_joint, deagg_unif] = Vector_Hazard_and_Deaggregation(Deagg, Deagg_
 % consideration.
 
 % OUTPUTS:
-% -AFE_joint     1 X 1           Vector hazard for the IMs under considered
-% -deagg_unif    NM X NR         Vector deaggregation for the IMs.
+% -AFE_joint     1 X 1           Vector hazard for the IM levels considered
+% -deagg_unif    NM X NR         Vector deaggregation for the IM levels considered.
 
 
 temp = size(Deagg);
