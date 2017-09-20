@@ -20,13 +20,13 @@ INPUTS:
 to the hazard levels of NIMs.
 -Deagg_min     (NM X NR)          Scalar deaggregation matrix for a low IM
 level. To obtain this, select any IM in a PSHA software and perform
-deaggregation for a reasonably low level of the IM.
+deaggregation for a reasonably low IM level.
 -Haz_vec       (NIM X 1)         Hazard vector containing AFEs for the NIMs
 under consideration.
 -tot_Haz       (1 X 1)           Total hazard at the site under
 consideration. To obtain this, select any IM in a PSHA software and note
-the ordinate of the hazard curve (in terms of AFE) for a reasonably low 
-level of the IM.
+the ordinate of the hazard curve (in terms of AFE) for a reasonably low IM 
+level.
 -corr_req      (NIM X NIM)       Correlation matrix between the IMs under
 consideration.
 
