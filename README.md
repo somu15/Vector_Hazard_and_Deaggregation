@@ -16,7 +16,7 @@ NR = Number of distance bins in the deaggregation.
 
 
 INPUTS:
--Deagg         (NM X NR X NIM)    Scalar deaggregations matrix correspoding
+-Deagg         (NM X NR X NIM)    Scalar deaggregations matrix corresponding
 to the hazard levels of NIMs.
 -Deagg_min     (NM X NR)          Scalar deaggregation matrix for a low IM
 level. To obtain this, select any IM in a PSHA software and perform
@@ -31,5 +31,5 @@ level.
 consideration.
 
 OUTPUTS:
--AFE_joint     (1 X 1)           Vector hazard for the IMs under considered.
+-AFE_joint     (1 X 1)           Vector hazard for the IMs under consideration.
 -deagg_unif    (NM X NR)         Vector deaggregation for the IMs.
