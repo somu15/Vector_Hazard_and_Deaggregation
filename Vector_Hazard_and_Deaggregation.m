@@ -12,7 +12,7 @@ function [AFE_joint, deagg_unif] = Vector_Hazard_and_Deaggregation(Deagg, Deagg_
 
 % Dhulipala, S.L.N., Rodriguez-Marek,A., and Flint, M.M. "Computation of
 % vector hazard using salient features of seismic hazard deaggregation".
-% Earthquake Spectra (under review).
+% Earthquake Spectra (accepted with minor changes).
 %
 % NOTATIONS
 % NIM = Number of IMs considered in the vector
