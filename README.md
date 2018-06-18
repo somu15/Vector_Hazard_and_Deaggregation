@@ -7,7 +7,7 @@ file for example inputs.
 
 Dhulipala, S.L.N., Rodriguez-Marek, A., and Flint, M.M. "Computation of
 vector hazard using salient features of seismic hazard deaggregation".
-Earthquake Spectra (submitted).
+Earthquake Spectra (accepted).
 
 NOTATIONS
 NIM = Number of IMs considered in the vector.
